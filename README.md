@@ -1,4 +1,4 @@
-# Basici-Radar-MultiTargets-MatchedFiltering
+# Basic-Radar-MultiTargets-MatchedFiltering
 Python implementation of basic radar detection of FMCW i.e., chirp using matched filter
 
 * DATE OF CURRENT VERSION (V1.0): Jan 2020 
